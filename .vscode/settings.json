@@ -1,0 +1,20 @@
+{
+  "workbench.colorCustomizations": {
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#e3fcea",
+    "statusBar.background": "#b4f8c8",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#85f4a6",
+    "statusBarItem.remoteBackground": "#a98af4",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#b4f8c8",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#b4f8c899",
+    "titleBar.inactiveForeground": "#15202b99",
+    "commandCenter.foreground": "#15202b",
+    "statusBar.debuggingBackground": "#b4f8c8",
+    "statusBar.debuggingForeground": "#15202b"
+  },
+  "peacock.color": "#B4F8C8",
+  "accessibility.signalOptions.volume": 0 // Added to mute all VS Code sounds including
+}
