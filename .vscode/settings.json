@@ -13,8 +13,10 @@
     "titleBar.inactiveForeground": "#15202b99",
     "commandCenter.foreground": "#15202b",
     "statusBar.debuggingBackground": "#b4f8c8",
-    "statusBar.debuggingForeground": "#15202b"
+    "statusBar.debuggingForeground": "#15202b",
+    "statusBar.inactiveBackground": "#b4f8c8"
   },
   "peacock.color": "#B4F8C8",
-  "accessibility.signalOptions.volume": 0 // Added to mute all VS Code sounds including
+  "accessibility.signalOptions.volume": 0,
+  "cSpell.words": ["deepseek", "Qwen"] // Added to mute all VS Code sounds including
 }
